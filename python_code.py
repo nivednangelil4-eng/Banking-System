@@ -22,7 +22,7 @@ def Check(bal):
 #Main
 bal=0
 print("---------------------------------------------------------------")
-print("Welcome to Simple Banking System")
+print("              Welcome to Simple Banking System                 ")
 print("---------------------------------------------------------------")
 name=input("Enter your name: ")
 while True:
